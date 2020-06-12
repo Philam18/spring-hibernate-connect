@@ -30,8 +30,7 @@ Refer to [here](https://docs.jboss.org/hibernate/orm/5.2/javadocs/org/hibernate/
 
 #### Resources
 - [MySQL Connector Java reference](https://dev.mysql.com/doc/connector-j/5.1/en/connector-j-usagenotes-spring-config.html)
-- [Hibernate 5.2.x docs](https://docs.jboss.org/hibernate/orm/5.2/javadocs/overview-summary.html)
-- [Spring 5.2.7 reference](https://docs.spring.io/autorepo/docs/spring-framework/5.2.7.RELEASE/spring-framework-reference/data-access.html#orm-hibernate)
+- [Spring 5.2.7 Hibernate reference](https://docs.spring.io/autorepo/docs/spring-framework/5.2.7.RELEASE/spring-framework-reference/data-access.html#orm-hibernate)
 
 
 
